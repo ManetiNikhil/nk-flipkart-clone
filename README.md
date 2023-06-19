@@ -1,1 +1,1 @@
-# nk-flipkart-clone
+FlipKartClone
